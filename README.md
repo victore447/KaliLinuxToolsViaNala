@@ -14,13 +14,21 @@
 (et [Devuan](https://www.devuan.org/)) est installer par défaut sous certaines
   distributions basé sur debian comme [Mx Linux](https://mxlinux.org/download-links/) par exemole.**
 
-`sudo apt update`
+ ```bash
+   sudo apt update
+   ```
 
-`sudo apt full-upgrade`
+ ```bash
+   sudo apt full-upgrade
+   ```
 
-`sudo apt install nala`
+ ```bash
+   sudo apt install nala
+   ```
 
-`sudo nala install autopsy lynis john the ripper aircrack-ng nikto yersinia apktool beef arp-scan binwalk cewl crunch cherrytree dirb dnsrecon fcrackzip ffuf git gobuster hashcat hydra python3-impacket john mousepad netdiscover nmap openvpn pip proxychains4 radare2 sqlmap tcpdump terminator tmux whois wireshark zsh`
+ ```bash
+   sudo nala install autopsy lynis john the ripper aircrack-ng nikto yersinia apktool beef arp-scan binwalk cewl crunch cherrytree dirb dnsrecon fcrackzip ffuf git gobuster hashcat hydra python3-impacket john mousepad netdiscover nmap openvpn pip proxychains4 radare2 sqlmap tcpdump terminator tmux whois wireshark zsh`
+   ```
 
 ![1_Fh3lizNlfCzhHpY_3rIZCg](https://github.com/user-attachments/assets/874299c5-362d-4f99-ac8b-49caae071640)
 - <ins>Etc...Liste non exhaustive plus haut .Il y en a une centaine [KaliLinux Tools](https://www.kali.org/tools/
