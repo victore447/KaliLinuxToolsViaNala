@@ -1,13 +1,13 @@
 # Kali Linux Tools Via Nala
 🖐️ Kali Tools via  Nala Frontal to Apt ⌨️
 
+![205](https://github.com/user-attachments/assets/6148d58c-194b-4b1b-94cf-3468389c37eb)
+
 ![kali-undercover-1](https://github.com/user-attachments/assets/14e35d6e-f673-40a8-a89f-ac242af068ec)
 
 ![46](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/caa9e727-800b-4827-a780-9684462ccf19)
 ><details>
->  <summary><b><u>🎞️ 🇫🇷 Cliquer sur l'icone.</u></b></summary>
->
->![143](https://github.com/user-attachments/assets/c087b3b2-b16a-42c0-879a-e507c6008723)
+>  <summary><b><u>🇫🇷 Cliquer sur l'icone.</u></b></summary>
 >
 >**Le présent Repo vous permet d'installer [les outils kali linux](https://www.kali.org/tools) sans [Katoolin qui est mort](https://github.com/LionSec/>katoolin)**
 >- sudo apt install etc... ne marche plus depuis des années pour installer cela sur ça distribution.
@@ -17,6 +17,7 @@
 >(et [Devuan](https://www.devuan.org/)) est installer par défaut sous certaines
 >  distributions basé sur debian comme [Mx Linux](https://mxlinux.org/download-links/) par exemole.**
 >
+>![29](https://github.com/user-attachments/assets/bf19dff2-8901-4c74-8355-7d663277620f)
 >```bash
 >   sudo apt update
 >  ```
@@ -46,8 +47,6 @@
 ><details>
 >  <summary><b><u>🇬🇧Click on the black icon.</u></b></summary>
 >
->![143](https://github.com/user-attachments/assets/c087b3b2-b16a-42c0-879a-e507c6008723)
->
 >**This repo allows you to install [the Kali Linux tools](https://www.kali.org/tools) without [Katoolin, which is dead](https://github.com/LionSec/>katoolin)**
 >- sudo apt install, etc., hasn't worked for years to install this on this distribution.
 >- The same goes for YouTubers and their methods. >
@@ -55,6 +54,7 @@
 >(and [Devuan](https://www.devuan.org/)) is installed by default under certain
 > distributions based on debian like [Mx Linux](https://mxlinux.org/download-links/) for example.**
 >
+>![73](https://github.com/user-attachments/assets/c2a8c50e-2a2a-4db9-b1e0-bbb48f6b35d9)
 >```bash
 > sudo apt update
 > ```
@@ -79,5 +79,5 @@
 >**Finally, the majority of the tools listed above to be installed via "[Nala](https://gitlab.com/volian/nala)"
 >will only be executable via the terminal and will not be visible on your software launcher.**
 
-### <li>- [x] 👌 star✔️ </li>![smiley-etoile-image-animee-0164](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/dc73a5b7-e38e-4d80-9cbc-68ac5dd89826)
+### <li>- [x]  ![731](https://github.com/user-attachments/assets/a871014d-0c7d-460a-830d-3249b638dfdc)star✔️ </li>![smiley-etoile-image-animee-0164](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/dc73a5b7-e38e-4d80-9cbc-68ac5dd89826)
 
