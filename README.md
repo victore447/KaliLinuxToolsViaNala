@@ -15,7 +15,7 @@
 >
 >**☝️En fait [Nala](https://gitlab.com/volian/nala) qui est un frontal à apt pour Debian 
 >(et [Devuan](https://www.devuan.org/)) est installer par défaut sous certaines
->  distributions basé sur debian comme [Mx Linux](https://mxlinux.org/download-links/) par exemole.**
+>  distributions basé sur debian comme [Mx Linux](https://mxlinux.org/download-links/) par exemple.**
 >
 >![29](https://github.com/user-attachments/assets/bf19dff2-8901-4c74-8355-7d663277620f)
 >```bash
