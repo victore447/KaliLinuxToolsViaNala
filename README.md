@@ -7,7 +7,7 @@
 
 ![46](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/caa9e727-800b-4827-a780-9684462ccf19)
 ><details>
->  <summary><b><u>🇫🇷 Ciquer sur l'icone.</u></b></summary>
+>  <summary><b><u>🇫🇷 Cliquer sur l'icone.</u></b></summary>
 >
 >**Le présent Repo vous permet d'installer [les outils kali linux](https://www.kali.org/tools) sans [Katoolin qui est mort](https://github.com/LionSec/>katoolin)**
 >- sudo apt install etc... ne marche plus depuis des années pour installer cela sur ça distribution.
