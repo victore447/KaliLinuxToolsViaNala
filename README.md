@@ -9,7 +9,7 @@
 ><details>
 >  <summary><b><u>🇫🇷 Cliquer sur l'icone.</u></b></summary>
 >
->**Le présent Repo vous permet d'installer [les outils kali linux](https://www.kali.org/tools) sans [Katoolin qui est mort](https://github.com/LionSec/>katoolin)**
+>**Le présent Repo vous permet d'installer [les outils kali linux](https://www.kali.org/tools) sans [Katoolin qui est mort](https://github.com/LionSec/katoolin)**
 >- sudo apt install etc... ne marche plus depuis des années pour installer cela sur ça distribution.
 >- Il en ai de meme pour les youtubeurs avec leurs methodes.
 >
@@ -47,7 +47,7 @@
 ><details>
 >  <summary><b><u>🇬🇧 Click on the black icon.</u></b></summary>
 >
->**This repo allows you to install [the Kali Linux tools](https://www.kali.org/tools) without [Katoolin, which is dead](https://github.com/LionSec/>katoolin)**
+>**This repo allows you to install [the Kali Linux tools](https://www.kali.org/tools) without [Katoolin, which is dead](https://github.com/LionSec/katoolin)**
 >- sudo apt install, etc., hasn't worked for years to install this on this distribution.
 >- The same goes for YouTubers and their methods. >
 >**☝️Actually [Nala](https://gitlab.com/volian/nala) which is an apt front-end for Debian
